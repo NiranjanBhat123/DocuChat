@@ -1,5 +1,11 @@
 # DocuChat
 
+
+
+https://github.com/user-attachments/assets/31ddd725-9e9f-4c2b-9cdf-383bbc328a7a
+
+
+
 Upload PDF research papers into collections and chat with them using AI. Built with React + shadcn/ui and Django REST Framework.
 
 ---
