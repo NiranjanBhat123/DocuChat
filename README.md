@@ -1,3 +1,4 @@
+<img width="2727" height="3440" alt="docuchat_hld_v3" src="https://github.com/user-attachments/assets/e2e1fcc6-65bf-4be9-b6e0-1dcbe644f15c" />
 
 
 
